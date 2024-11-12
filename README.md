@@ -10,6 +10,3 @@ No diretório do projeto, execute:
 
 A aplicação vai rodar em desenvolvimento.\
 Abra [http://localhost:3000](http://localhost:3000) para visualizar no browser.
-
-Esta página irá regarregar quando você fizer mudanças.\
-Os erros apareceram no console.
